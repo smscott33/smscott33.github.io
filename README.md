@@ -1,3 +1,6 @@
+# June 8, 2018
+Changed the size of my name on the home page.
+
 # June 7, 2018
 Pushed website from localhost. Made some spelling and grammar changes.
 

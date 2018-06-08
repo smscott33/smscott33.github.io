@@ -198,8 +198,8 @@ header.masthead .intro-text .intro-lead-in {
 }
 
 header.masthead .intro-text .intro-heading {
-  letter-spacing: 1px;
-  font-size: 12px !important;
+  letter-spacing: 30px;
+  font-size: 72px !important;
   text-transform: uppercase;
   color: white;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -208,7 +208,7 @@ header.masthead .intro-text .intro-heading {
 @media (min-width: 768px) {
   header.masthead .intro-text {
     padding-top: 300px;
-    padding-bottom: 200px;
+    padding-bottom: 150px;
   }
   header.masthead .intro-text .intro-lead-in {
     font-size: 40px;
