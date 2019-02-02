@@ -1,3 +1,6 @@
+# February 2, 2019
+Updated my resume to download and added to my timeline of experiences. 
+
 # June 8, 2018
 Changed the size of my name on the home page.
 
